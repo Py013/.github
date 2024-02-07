@@ -3,6 +3,6 @@
 
 </p>
 
-## Bem-vindos à PY013 🐍
+## Bem-vindos à Py013 🐍
 
-Nós da PY013, somos uma comunidade focada no desenvolvimento Python na Baixada Santista!
+Nós da Py013, somos uma comunidade focada no desenvolvimento Python na Baixada Santista!
