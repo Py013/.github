@@ -5,4 +5,4 @@
 
 ## Bem-vindos à Py013 🐍
 
-Nós da Py013, somos uma comunidade focada no desenvolvimento Python na Baixada Santista!
+Nós da Py013, somos uma comunidade focada no desenvolvimento **Python**🐍 na **Baixada Santista**!
