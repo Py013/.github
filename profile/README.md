@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/py013"><img align="center" src="https://i.imgur.com/aU4sS77.png""></a>
+    <a href="https://github.com/py013"><img align="center" src="https://github.com/user-attachments/assets/9856e5f7-a934-495c-812f-ec1efc414b02"></a>
 
 </p>
 
